@@ -1,1 +1,2 @@
-i_wanna_be
+$ cat solution.txt
+byte 0: i_wanna_be
